@@ -23,7 +23,7 @@ setup(
     platforms='any',
     python_requires='>=3.6',
     install_requires=[
-        'setuptools-rust==1.2.0',
+        'setuptools-rust==1.3.0',
         'click==7.1.2',
         'github3.py==2.0.0',
     ],
